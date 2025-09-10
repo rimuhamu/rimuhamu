@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 My Go Interview Practice Journey
+
+[![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/YOUR_USERNAME.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+
+I've been practicing Go programming through the [Go Interview Practice](https://github.com/RezaSi/go-interview-practice) repository, where I've solved multiple coding challenges and improved my algorithmic thinking skills.
