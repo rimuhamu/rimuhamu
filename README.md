@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 I've been practicing Go programming through the [Go Interview Practice](https://github.com/RezaSi/go-interview-practice) repository, where I've solved multiple coding challenges and improved my algorithmic thinking skills.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimuhamu&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimuhamu&hide=javascript,css,scss,html&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimuhamu&hide=javascript,css,scss,html&theme=dracula)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimuhamu&show_icons=true&theme=dracula)
