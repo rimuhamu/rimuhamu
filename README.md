@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hey, I'm Emir!
 
 
 # 💫 About Me:
-🔭 I’m currently looking for an internship opportunity<br>🌱 I’m currently learning Backend Development
+🔭 Currently looking for an internship opportunity<br>🌱 Currently learning Backend and Android Development
 
 
 ## 🌐 Socials:
