@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Currently looking for an internship opportunity<br>🌱 Currently learning Backend and Android Development
+🔭 Currently looking for an internship opportunity<br>🌱 Currently learning Backend and Agentic AI
 
 
 ## 🌐 Socials:
